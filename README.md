@@ -1,7 +1,9 @@
 
 # Ex.No:2 Develop an application that uses GUI Components with Fonts and Colors
 
-
+Developed by:Divya R
+RegisterNumber: 212222040040
+Date: 26/8/24
 ## AIM:
 To develop an application that uses GUI Components with Fonts and Colors using android studio.
 
@@ -41,12 +43,6 @@ Step 6:Close the Android project.
 
 
 ## Program:
-
-Developed by:Divya R
-
-RegisterNumber: 212222040040
-
-
 ## MainActivity.java:
 ```
 package com.example.exp_2;
