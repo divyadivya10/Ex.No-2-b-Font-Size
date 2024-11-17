@@ -150,15 +150,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output:
 
-![mad ex2 op a](https://github.com/user-attachments/assets/f945134f-fec1-4150-b896-fb8c7bfdbd59)
-
-![mad ex2 op b](https://github.com/user-attachments/assets/5e2ab6e0-492a-4b2d-8e4e-1d922480f806)
-
-![mad ex2 op c](https://github.com/user-attachments/assets/80692db8-fd06-4d77-a5a9-ce2e00b914a7)
-
-
-
-
+![{F85CE22F-98A0-4745-98A1-7B35E84919B1}](https://github.com/user-attachments/assets/de501147-c6ac-4b2a-9787-4067f8885155)
 
 ## Result:
 Thus, the program for android application, Font Size and color was executed successfully using Android Studio.
